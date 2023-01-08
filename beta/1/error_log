@@ -1,0 +1,3 @@
+[27-Jun-2021 04:15:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cryptina/rowdymeals.com/beta/fetch.php on line 2
+[27-Jun-2021 04:15:55 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cryptina/rowdymeals.com/beta/fetch.php on line 21
+[27-Jun-2021 04:15:55 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cryptina/rowdymeals.com/beta/fetch.php on line 22

@@ -1,0 +1,14 @@
+https://rowdymeals.com/
+https://rowdymeals.com/index.php
+https://rowdymeals.com/cart.php
+https://rowdymeals.com/restaurants.php
+https://rowdymeals.com/about.php
+https://rowdymeals.com/contact.php
+https://rowdymeals.com/login.php
+https://rowdymeals.com/registration.php
+https://rowdymeals.com/dishes.php?res_id=4
+https://rowdymeals.com/dishes.php?res_id=11
+https://rowdymeals.com/dishes.php?res_id=2
+https://rowdymeals.com/tnc.php
+https://rowdymeals.com/privacy-policy.php
+https://rowdymeals.com/refund-policy.php

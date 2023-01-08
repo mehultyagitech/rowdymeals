@@ -1,0 +1,25 @@
+[19-Jun-2021 13:00:02 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:00:02 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:00:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:00:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:00:33 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:00:34 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:02:20 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:02:20 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:02 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:02 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:23 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:24 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:24 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:25 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:43 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:44 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:53 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:03:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:04:07 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:04:07 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:04:28 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[19-Jun-2021 13:04:29 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/cryptina/rowdymeals.com/inc/header.php on line 187
+[04-Jul-2021 21:50:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cryptina_rowdy1'@'localhost' to database 'cryptina_rowdy1' in /home/cryptina/rowdymeals.com/beta/2/connection/connect.php on line 10
+[04-Jul-2021 21:50:29 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cryptina_rowdy1'@'localhost' to database 'cryptina_rowdy1' in /home/cryptina/rowdymeals.com/beta/2/connection/connect.php on line 10
+[04-Jul-2021 21:51:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'cryptina_rowdy1'@'localhost' to database 'cryptina_rowdy1' in /home/cryptina/rowdymeals.com/beta/2/connection/connect.php on line 10
