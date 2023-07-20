@@ -2,9 +2,9 @@
 
 //main connection file for both admin & front end
 $servername = "localhost"; //serve
-$username = "cryptina_rowdy"; //username
-$password = "cryptina_rowdy"; //password
-$dbname = "cryptina_rowdy";  //database
+$username = "root"; //username
+$password = ""; //password
+$dbname = "rowdy";  //database
 
 // Create connection
 $db = mysqli_connect($servername, $username, $password, $dbname); // connecting 
